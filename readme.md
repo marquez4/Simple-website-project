@@ -1,1 +1,1 @@
-simple website project exercise
+simple website project exercises
